@@ -33,7 +33,7 @@ We use regression modeling, comparative trends, and data visualization to analyz
 - Difference-in-differences (DiD) framework to test policy impact
 - Placebo tests and robustness checks (e.g., using 2021 as a false “treatment year”)
 - Visualization using `ggplot2` (R) and `matplotlib/seaborn` (Python)
-- Most of the models written down and feedback from Shivangi [Google Drive Folder]([https://drive.google.com/drive/folders/1H4_idZ3cvX4cABoN4YuCRKmwIG8wNGza?usp=drive_link](https://docs.google.com/document/d/1lpriqY8imuIkPpWcucl1r0Ic7cV0EQHYjYQbTK2GIu4/edit?usp=sharing))
+- Most of the models written down and feedback from Shivangi [Google Drive Folder]([[https://drive.google.com/drive/folders/1H4_idZ3cvX4cABoN4YuCRKmwIG8wNGza?usp=drive_link](https://docs.google.com/document/d/1lpriqY8imuIkPpWcucl1r0Ic7cV0EQHYjYQbTK2GIu4/edit?usp=sharing)]
 
 ## Key Findings
 
